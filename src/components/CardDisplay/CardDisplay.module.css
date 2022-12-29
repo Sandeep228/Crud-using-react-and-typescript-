@@ -1,0 +1,18 @@
+.gridItem{
+    padding: 1rem;
+    border-radius: "40%";
+    grid-gap: 2rem;
+}
+.image{
+    height: 10rem;
+}
+.cardItem{
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px rgb(190, 190, 190);
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+  }
+

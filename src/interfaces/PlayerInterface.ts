@@ -1,0 +1,15 @@
+export default interface Details{
+    id: number | null,
+    name: string, 
+    gender: string,
+    country: string,
+    roles: string[],
+    runs: number | null,
+    imgURL: string,
+    matches: number | null,
+    wickets: number | null,
+    centuries: number | null,
+    fifties: number | null,
+    fours : number | null,
+    sixes: number | null,
+}
